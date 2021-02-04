@@ -24,7 +24,7 @@ import java.lang.StringBuilder
 private lateinit var btn:Button
 private lateinit var edit:EditText
 private lateinit var textView: TextView
-private var num:Int = 1
+private var num:Int = 2 
 private var task6:Int=0
 //private  var task57:Int=0
 private var num56:Int?=0
